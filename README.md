@@ -1,18 +1,19 @@
 ## Olá, eu sou o Diego Hugo 👋
 
-💻 **AI Engineer | Inteligência Artificial & Backend**  
-🤖 LLMs • Agentes Autônomos • RAG • LangGraph  
+💻 **AI Engineer | Inteligência Artificial & Automação**  
+🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n  
 
-Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções práticas com LLMs, agentes inteligentes e APIs**.  
-Aqui você encontra projetos reais, estudos aplicados e sistemas pensados para impacto de verdade.
+Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções reais com LLMs, agentes inteligentes, automações e APIs**.  
+Aqui você encontra projetos práticos, estudos aplicados e fluxos pensados para impacto direto em produtos e operações.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🤖 AI Engineer com foco em LLMs e Agentic Workflows  
-- 🧠 IA aplicada a produtos, negócios e automação  
-- 🐍 Python para IA, dados e prototipação rápida  
+- 🤖 AI Engineer com foco em LLMs, Agentes Autônomos e Automação  
+- 🧠 IA aplicada a produtos, negócios e processos  
+- 🐍 Python para IA, dados e prototipação  
+- 🔁 Automação de workflows com n8n  
 - 🌐 Backend com Node.js e TypeScript  
 - 📚 Estudo contínuo e projetos práticos  
 
@@ -27,6 +28,10 @@ Aqui você encontra projetos reais, estudos aplicados e sistemas pensados para i
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
 
+### 🔁 Automação
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
+
 ### 🌐 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,7 +43,7 @@ Aqui você encontra projetos reais, estudos aplicados e sistemas pensados para i
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em aplicação real de IA.
+Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **IA aplicada**.
 
 ### 🔹 LLMs & IA aplicada
 - LLMs aplicados a negócios
@@ -67,6 +72,21 @@ Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados 
 - f-strings
 - Conversão de tipos
 - Python aplicado à IA
+
+---
+
+## 🔁 Automação com n8n
+
+Coleção de **workflows n8n exportados (JSON)**, organizados e versionados, focados em **automação inteligente e integração com IA**.
+
+### 🧠 O que você encontra
+- Automação de fluxos de negócio
+- Integração entre APIs
+- Orquestração de tarefas repetitivas
+- Workflows prontos para escalar
+- Base para automações com LLMs e agentes
+
+💡 Os arquivos estão disponibilizados **em formato zip**, prontos para importação direta no n8n.
 
 ---
 
