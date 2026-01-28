@@ -4,7 +4,7 @@
 🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n  
 
 Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções reais com LLMs, agentes inteligentes, automações e APIs**.  
-Aqui você encontra projetos práticos, estudos aplicados e fluxos pensados para impacto direto em produtos e operações.
+Aqui você encontra projetos práticos, estudos aplicados e workflows pensados para impacto direto em produtos e operações.
 
 ---
 
@@ -13,7 +13,7 @@ Aqui você encontra projetos práticos, estudos aplicados e fluxos pensados para
 - 🤖 AI Engineer com foco em LLMs, Agentes Autônomos e Automação  
 - 🧠 IA aplicada a produtos, negócios e processos  
 - 🐍 Python para IA, dados e prototipação  
-- 🔁 Automação de workflows com n8n  
+- 🔁 Automação de processos com n8n  
 - 🌐 Backend com Node.js e TypeScript  
 - 📚 Estudo contínuo e projetos práticos  
 
@@ -43,7 +43,7 @@ Aqui você encontra projetos práticos, estudos aplicados e fluxos pensados para
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **IA aplicada**.
+Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **Inteligência Artificial aplicada**.
 
 ### 🔹 LLMs & IA aplicada
 - LLMs aplicados a negócios
@@ -75,18 +75,39 @@ Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados 
 
 ---
 
-## 🔁 Automação com n8n
+## 🔁 Portfólio — Automação com n8n
 
-Coleção de **workflows n8n exportados (JSON)**, organizados e versionados, focados em **automação inteligente e integração com IA**.
+Repositório com **workflows n8n exportados**, organizados a partir de **backups reais de automações**, focados em **integração de sistemas, automação de processos e uso de IA em fluxos operacionais**.
 
-### 🧠 O que você encontra
-- Automação de fluxos de negócio
-- Integração entre APIs
-- Orquestração de tarefas repetitivas
-- Workflows prontos para escalar
-- Base para automações com LLMs e agentes
+### 🔹 Automação de Processos
+- Automatização de tarefas repetitivas
+- Execução de fluxos baseados em eventos
+- Redução de tarefas manuais e operacionais
+- Orquestração de processos de negócio
 
-💡 Os arquivos estão disponibilizados **em formato zip**, prontos para importação direta no n8n.
+### 🔹 Integração de Sistemas
+- Integração entre múltiplas APIs
+- Comunicação entre serviços internos e externos
+- Normalização e transformação de dados
+- Conectores HTTP e Webhooks
+
+### 🔹 Workflows Orientados a Dados
+- Tratamento e validação de dados
+- Enriquecimento de informações em pipelines
+- Automatização de fluxos baseados em lógica condicional
+
+### 🔹 IA + Automação
+- Integração de LLMs em workflows
+- Uso de IA para classificação, enriquecimento e decisão
+- Base para automações inteligentes e agentes
+
+### 🔹 Estrutura dos Arquivos
+- Workflows exportados em `.json`
+- Backups organizados e versionados
+- Arquivos disponibilizados em formato `.zip`
+- Importação direta no n8n sem necessidade de ajustes manuais
+
+💡 Todos os fluxos foram criados visando **reuso, escalabilidade e aplicação prática em cenários reais**.
 
 ---
 
