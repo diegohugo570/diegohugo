@@ -1,21 +1,21 @@
 ## Olá, eu sou o Diego Hugo 👋
 
-💻 **AI Engineer | Inteligência Artificial & Automação**  
-🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n  
+💻 **AI Engineer | Inteligência Artificial, Automação & Full Stack**  
+🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n • APIs  
 
-Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções reais com LLMs, agentes inteligentes, automações e APIs**.  
-Aqui você encontra projetos práticos, estudos aplicados e workflows pensados para impacto direto em produtos e operações.
+Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções reais com LLMs, agentes inteligentes, automações, APIs e aplicações Full Stack**.  
+Aqui você encontra **projetos práticos**, **estudos aplicados** e **workflows reais**, pensados para impacto direto em produtos e operações.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🤖 AI Engineer com foco em LLMs, Agentes Autônomos e Automação  
-- 🧠 IA aplicada a produtos, negócios e processos  
-- 🐍 Python para IA, dados e prototipação  
-- 🔁 Automação de processos com n8n  
-- 🌐 Backend com Node.js e TypeScript  
-- 📚 Estudo contínuo e projetos práticos  
+- 🤖 AI Engineer com foco em **LLMs, Agentes Autônomos e Automação**
+- 🧠 IA aplicada a **produtos, negócios e processos**
+- 🐍 Python para **IA, dados e prototipação**
+- 🔁 Automação de processos com **n8n**
+- 🌐 Desenvolvimento **Full Stack** com **Node.js, TypeScript e React**
+- 📚 Estudo contínuo com aplicação prática
 
 ---
 
@@ -28,7 +28,7 @@ Aqui você encontra projetos práticos, estudos aplicados e workflows pensados p
 ![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
 
-### 🔁 Automação
+### 🔁 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
 
@@ -39,11 +39,17 @@ Aqui você encontra projetos práticos, estudos aplicados e workflows pensados p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **Inteligência Artificial aplicada**.
+Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **IA aplicada a cenários reais**.
 
 ### 🔹 LLMs & IA aplicada
 - LLMs aplicados a negócios
@@ -77,47 +83,41 @@ Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados 
 
 ## 🔁 Portfólio — Automação com n8n
 
-Repositório com **workflows n8n exportados**, organizados a partir de **backups reais de automações**, focados em **integração de sistemas, automação de processos e uso de IA em fluxos operacionais**.
+Repositório com **workflows n8n exportados**, baseados em **backups reais de automações**, com foco em **processos, integrações e IA operacional**.
 
 ### 🔹 Automação de Processos
 - Automatização de tarefas repetitivas
-- Execução de fluxos baseados em eventos
-- Redução de tarefas manuais e operacionais
+- Execução baseada em eventos
+- Redução de trabalho manual
 - Orquestração de processos de negócio
 
 ### 🔹 Integração de Sistemas
 - Integração entre múltiplas APIs
-- Comunicação entre serviços internos e externos
+- Webhooks e conectores HTTP
 - Normalização e transformação de dados
-- Conectores HTTP e Webhooks
-
-### 🔹 Workflows Orientados a Dados
-- Tratamento e validação de dados
-- Enriquecimento de informações em pipelines
-- Automatização de fluxos baseados em lógica condicional
 
 ### 🔹 IA + Automação
 - Integração de LLMs em workflows
-- Uso de IA para classificação, enriquecimento e decisão
-- Base para automações inteligentes e agentes
-
-### 🔹 Estrutura dos Arquivos
-- Workflows exportados em `.json`
-- Backups organizados e versionados
-- Arquivos disponibilizados em formato `.zip`
-- Importação direta no n8n sem necessidade de ajustes manuais
-
-💡 Todos os fluxos foram criados visando **reuso, escalabilidade e aplicação prática em cenários reais**.
+- Classificação, enriquecimento e tomada de decisão
+- Base para agentes inteligentes
 
 ---
 
 ## ⭐ Projeto em Destaque
 
-### 📄 OCR Document API
+### 📄 OCR Document API — Full Stack
 
-API para **upload de imagens**, **extração de texto via OCR**, persistência em banco de dados e **busca textual**.
+Aplicação **Full Stack** para **upload de imagens**, **extração de texto via OCR**, **persistência em banco de dados** e **busca textual**.
 
-**Stack:**
+#### 🎨 Frontend
+- React
+- TypeScript
+- Vite
+- CSS
+- Axios
+- Docker
+
+#### 🌐 Backend
 - Node.js
 - TypeScript
 - Express
