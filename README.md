@@ -15,7 +15,7 @@ Este repositório reúne **projetos práticos**, **estudos aplicados** e **workf
 - 🧠 IA aplicada a **produtos, processos, marketing, dados e operações**
 - 🐍 Python para **IA, dados, automações e prototipação**
 - 🟨 JavaScript / TypeScript para **backend, frontend e integrações**
-- 🔁 Automação de processos com **n8n, webhooks e APIs**
+- 🔁 Automação de processos com **n8n, Webhooks e APIs**
 - 🌐 Desenvolvimento **Full Stack** com **Node.js, TypeScript e React**
 - 🗄️ Modelagem e uso de **bancos de dados SQL**
 - 📚 Aprendizado contínuo com **aplicação prática em projetos reais**
@@ -122,13 +122,13 @@ Aplicação **Full Stack** para **upload de imagens**, **extração de texto via
 - Arquitetura containerizada
 
 #### 🎨 Frontend
-- React • TypeScript • Vite • CSS
+- React • TypeScript • Vite • CSS  
 - Axios • Docker
 
 #### 🌐 Backend
-- Node.js • TypeScript • Express
-- PostgreSQL • SQL
-- Multer • Tesseract.js
+- Node.js • TypeScript • Express  
+- PostgreSQL • SQL  
+- Multer • Tesseract.js  
 - Docker
 
 🎥 Vídeo explicativo:  
@@ -150,3 +150,4 @@ https://www.loom.com/share/0f83b4adf2f243e6a360af3d4622e7b0
 ---
 
 ⭐ Se algum projeto te ajudou, considere deixar uma estrela!
+
