@@ -61,13 +61,13 @@ Este repositório reúne **projetos práticos**, **estudos aplicados** e **workf
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Coleção de **notebooks práticos (Google Colab)** focados em **IA aplicada a problemas reais de negócio**.
+Coleção de **projetos e notebooks práticos** focados em **IA aplicada a problemas reais de negócio**, produtos e operações.
 
 ### 🔹 LLMs & IA aplicada
 - LLMs aplicados a negócios e produtos
 - Marketing, Atendimento, RH, Educação e Finanças
 - Human-in-the-loop
-- Fundamentos de IA e LLMs
+- Análises explicáveis com IA
 
 ### 🔹 Agentes Autônomos & LangGraph
 - Fundamentos do LangGraph
@@ -88,7 +88,7 @@ Coleção de **notebooks práticos (Google Colab)** focados em **IA aplicada a p
 
 ## 🔁 Portfólio — Automação com n8n
 
-Repositório com **workflows n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional e IA aplicada**.
+Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
 
 ### 🔹 Automação de Processos
 - Automatização de tarefas repetitivas
@@ -109,7 +109,35 @@ Repositório com **workflows n8n exportados**, baseados em **automações reais 
 
 ---
 
-## ⭐ Projeto em Destaque
+## ⭐ Projetos em Destaque
+
+### 📊 A Tríade — IA para Análise de Ações
+
+Projeto **backend em Python** que integra **dados financeiros**, **notícias de mercado** e **Inteligência Artificial** para apoiar **análise de ações e tomada de decisão**.
+
+**A Tríade se baseia em três pilares:**
+- 📈 Dados de mercado (preço, variação, indicadores)
+- 📰 Contexto informacional (notícias relevantes)
+- 🤖 Raciocínio estruturado com LLMs
+
+**Destaques técnicos:**
+- API REST com **FastAPI**
+- Arquitetura em camadas (API, Services, AI, Schemas)
+- Prompt Engineering com **structured outputs**
+- Base pronta para **RAG e agentes autônomos**
+- Projeto containerizado com **Docker**
+
+**Stack:**
+- Python • FastAPI • Pydantic • Poetry  
+- OpenAI API • Prompt Engineering  
+- Docker  
+
+🎯 Ideal como base para:
+- Plataformas de investimento
+- Assistentes financeiros
+- Produtos de análise de mercado
+
+---
 
 ### 📄 OCR Document API — Full Stack
 
@@ -150,4 +178,3 @@ https://www.loom.com/share/0f83b4adf2f243e6a360af3d4622e7b0
 ---
 
 ⭐ Se algum projeto te ajudou, considere deixar uma estrela!
-
