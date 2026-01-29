@@ -1,21 +1,22 @@
 ## Olá, eu sou o Diego Hugo 👋
 
 💻 **AI Engineer | Inteligência Artificial, Automação & Full Stack**  
-🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n • APIs  
+🤖 LLMs • Agentes Autônomos • RAG • LangGraph • n8n • APIs • Full Stack  
 
-Sou desenvolvedor focado em **Inteligência Artificial aplicada a negócios**, criando **soluções reais com LLMs, agentes inteligentes, automações, APIs e aplicações Full Stack**.  
-Aqui você encontra **projetos práticos**, **estudos aplicados** e **workflows reais**, pensados para impacto direto em produtos e operações.
+Sou **AI Engineer focado em Inteligência Artificial aplicada a negócios**, criando **soluções reais, escaláveis e orientadas a impacto**, combinando **LLMs, agentes inteligentes, automações, APIs e aplicações Full Stack**.
+
+Este repositório reúne **projetos práticos**, **estudos aplicados** e **workflows reais**, construídos com mentalidade de **produto, operação e escala**.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🤖 AI Engineer com foco em **LLMs, Agentes Autônomos e Automação**
-- 🧠 IA aplicada a **produtos, negócios e processos**
-- 🐍 Python para **IA, dados e prototipação**
-- 🔁 Automação de processos com **n8n**
+- 🤖 AI Engineer com foco em **LLMs, Agentes Autônomos e Sistemas Inteligentes**
+- 🧠 IA aplicada a **produtos, processos, marketing e operações**
+- 🐍 Python para **IA, dados, automações e prototipação**
+- 🔁 Automação de processos com **n8n e integrações via APIs**
 - 🌐 Desenvolvimento **Full Stack** com **Node.js, TypeScript e React**
-- 📚 Estudo contínuo com aplicação prática
+- 📚 Aprendizado contínuo com **aplicação prática em projetos reais**
 
 ---
 
@@ -31,6 +32,7 @@ Aqui você encontra **projetos práticos**, **estudos aplicados** e **workflows 
 ### 🔁 Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
 
 ### 🌐 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -49,10 +51,10 @@ Aqui você encontra **projetos práticos**, **estudos aplicados** e **workflows 
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados em **IA aplicada a cenários reais**.
+Coleção de **notebooks práticos (Google Colab)** focados em **IA aplicada a problemas reais de negócio**.
 
 ### 🔹 LLMs & IA aplicada
-- LLMs aplicados a negócios
+- LLMs aplicados a negócios e produtos
 - Marketing, Atendimento, RH, Educação e Finanças
 - Human-in-the-loop
 - Fundamentos de IA e LLMs
@@ -61,13 +63,13 @@ Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados 
 - Fundamentos do LangGraph
 - Agentic Workflows
 - Arquiteturas de agentes
-- Routers preditivos com LLMs
+- Roteamento inteligente com LLMs
 - LangGraph do zero (prática)
 
 ### 🔹 RAG — Retrieval-Augmented Generation
 - Construção de pipelines RAG
-- Recuperação de contexto
-- Enriquecimento de respostas com LLMs
+- Recuperação e enriquecimento de contexto
+- Integração com bases vetoriais
 
 ### 🔹 IA Generativa
 - ComfyUI no Google Colab
@@ -83,11 +85,11 @@ Repositório com **notebooks práticos desenvolvidos no Google Colab**, focados 
 
 ## 🔁 Portfólio — Automação com n8n
 
-Repositório com **workflows n8n exportados**, baseados em **backups reais de automações**, com foco em **processos, integrações e IA operacional**.
+Repositório com **workflows n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional e IA aplicada**.
 
 ### 🔹 Automação de Processos
 - Automatização de tarefas repetitivas
-- Execução baseada em eventos
+- Execução orientada a eventos
 - Redução de trabalho manual
 - Orquestração de processos de negócio
 
