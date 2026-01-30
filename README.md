@@ -59,6 +59,51 @@ Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **
 
 ---
 
+## 📚 Portfólio — Python & Inteligência Artificial
+
+Coleção de **projetos e estudos práticos** focados em **IA aplicada a problemas reais de negócio**, com visão de **arquitetura, produto e escala**.
+
+### 🔹 LLMs & IA Aplicada
+- IA aplicada a negócios e produtos  
+- Finanças, Marketing, Atendimento e Operações  
+- Human-in-the-loop  
+- Análises explicáveis com LLMs  
+
+### 🔹 Agentes Autônomos & LangGraph
+- Agentic Workflows  
+- Arquiteturas multi-agentes  
+- Roteamento inteligente com LLMs  
+
+### 🔹 RAG — Retrieval-Augmented Generation
+- Pipelines RAG completos  
+- Enriquecimento de contexto com embeddings  
+- Recuperação semântica em bases vetoriais  
+
+---
+
+## 🔁 Portfólio — Automação com n8n
+
+Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
+
+### 🔹 Automação de Processos
+- Automatização de tarefas repetitivas  
+- Execução orientada a eventos  
+- Orquestração de processos de negócio  
+- Redução de trabalho manual  
+
+### 🔹 Integração de Sistemas
+- Integração entre múltiplas APIs  
+- Webhooks e conectores HTTP  
+- Normalização e transformação de dados  
+
+### 🔹 IA + Automação
+- Integração de LLMs em workflows  
+- Classificação e enriquecimento de dados  
+- Tomada de decisão automatizada  
+- Base para agentes inteligentes  
+
+---
+
 ## ⭐ Projeto em Destaque
 
 ### 📊 A Tríade — IA para Análise de Ações
