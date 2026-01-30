@@ -5,7 +5,7 @@
 
 Sou **AI Engineer focado em Inteligência Artificial aplicada a negócios**, criando **soluções reais, escaláveis e orientadas a impacto**, combinando **LLMs, agentes inteligentes, automações, APIs e aplicações Full Stack**.
 
-Este repositório reúne **projetos práticos**, **estudos aplicados** e **workflows reais**, construídos com mentalidade de **produto, operação e escala**.
+Este repositório reúne **projetos práticos**, **arquiteturas aplicadas** e **workflows reais de produção**, com mentalidade de **produto, operação e escala**.
 
 ---
 
@@ -16,7 +16,7 @@ Este repositório reúne **projetos práticos**, **estudos aplicados** e **workf
 - 🐍 Python para **IA, dados, automações e prototipação**
 - 🟨 JavaScript / TypeScript para **backend, frontend e integrações**
 - 🔁 Automação de processos com **n8n, Webhooks e APIs**
-- 🌐 Desenvolvimento **Full Stack** com **Node.js, TypeScript e React**
+- 🌐 Desenvolvimento **Full Stack**
 - 🗄️ Modelagem e uso de **bancos de dados SQL**
 - 📚 Aprendizado contínuo com **aplicação prática em projetos reais**
 
@@ -25,64 +25,44 @@ Este repositório reúne **projetos práticos**, **estudos aplicados** e **workf
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 🤖 Inteligência Artificial
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1f2937?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-374151?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge)
+Python • LLMs • LangGraph • RAG • Embeddings • Prompt Engineering
 
 ### 🔁 Automação & Integrações
-![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)
-![REST](https://img.shields.io/badge/REST-374151?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-374151?style=for-the-badge)
+n8n • APIs REST • Webhooks
 
 ### 🗄️ Dados & Persistência
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge)
+PostgreSQL • SQL • Redis
 
 ### 🌐 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge)
+FastAPI • Node.js • TypeScript • Express
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+React • TypeScript • Vite • CSS
 
 ### ⚙️ Infraestrutura & Deploy
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0db7ed?style=for-the-badge)
+Docker • Docker Compose • Cloudflare
 
 ---
 
 ## 📚 Portfólio — Python & Inteligência Artificial
 
-Coleção de **projetos e notebooks práticos** focados em **IA aplicada a problemas reais de negócio**, produtos e operações.
+Coleção de **projetos e estudos práticos** focados em **IA aplicada a problemas reais de negócio**, com visão de **arquitetura, produto e escala**.
 
-### 🔹 LLMs & IA aplicada
-- LLMs aplicados a negócios e produtos
-- Marketing, Atendimento, RH, Educação e Finanças
-- Human-in-the-loop
-- Análises explicáveis com IA
+### 🔹 LLMs & IA Aplicada
+- IA aplicada a negócios e produtos  
+- Finanças, Marketing, Atendimento e Operações  
+- Human-in-the-loop  
+- Análises explicáveis com LLMs  
 
 ### 🔹 Agentes Autônomos & LangGraph
-- Fundamentos do LangGraph
-- Agentic Workflows
-- Arquiteturas de agentes
-- Roteamento inteligente com LLMs
+- Agentic Workflows  
+- Arquiteturas multi-agentes  
+- Roteamento inteligente com LLMs  
 
 ### 🔹 RAG — Retrieval-Augmented Generation
-- Construção de pipelines RAG
-- Recuperação e enriquecimento de contexto
-- Integração com embeddings e bases vetoriais
-
-### 🔹 IA Generativa
-- ComfyUI no Google Colab
-- Geração de imagens com IA
+- Pipelines RAG completos  
+- Enriquecimento de contexto com embeddings  
+- Recuperação semântica em bases vetoriais  
 
 ---
 
@@ -91,82 +71,84 @@ Coleção de **projetos e notebooks práticos** focados em **IA aplicada a probl
 Workflows **n8n exportados**, baseados em **automações reais de produção**, focados em **eficiência operacional, integração de sistemas e IA aplicada**.
 
 ### 🔹 Automação de Processos
-- Automatização de tarefas repetitivas
-- Execução orientada a eventos
-- Orquestração de processos de negócio
-- Redução de trabalho manual
+- Automatização de tarefas repetitivas  
+- Execução orientada a eventos  
+- Orquestração de processos de negócio  
+- Redução de trabalho manual  
 
 ### 🔹 Integração de Sistemas
-- Integração entre múltiplas APIs
-- Webhooks e conectores HTTP
-- Normalização e transformação de dados
+- Integração entre múltiplas APIs  
+- Webhooks e conectores HTTP  
+- Normalização e transformação de dados  
 
 ### 🔹 IA + Automação
-- Integração de LLMs em workflows
-- Classificação e enriquecimento de dados
-- Tomada de decisão automatizada
-- Base para agentes inteligentes
+- Integração de LLMs em workflows  
+- Classificação e enriquecimento de dados  
+- Tomada de decisão automatizada  
+- Base para agentes inteligentes  
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Projeto em Destaque
 
 ### 📊 A Tríade — IA para Análise de Ações
 
 Projeto **backend em Python** que integra **dados financeiros**, **notícias de mercado** e **Inteligência Artificial** para apoiar **análise de ações e tomada de decisão**.
 
-**A Tríade se baseia em três pilares:**
-- 📈 Dados de mercado (preço, variação, indicadores)
-- 📰 Contexto informacional (notícias relevantes)
-- 🤖 Raciocínio estruturado com LLMs
+**Pilares:**
+- 📈 Dados de mercado  
+- 📰 Contexto informacional  
+- 🤖 Raciocínio estruturado com LLMs  
 
 **Destaques técnicos:**
 - API REST com **FastAPI**
-- Arquitetura em camadas (API, Services, AI, Schemas)
-- Prompt Engineering com **structured outputs**
-- Base pronta para **RAG e agentes autônomos**
-- Projeto containerizado com **Docker**
+- Arquitetura em camadas (**API, Services, AI, Schemas**)
+- **Prompt Engineering** com *structured outputs*
+- Base pronta para **RAG** e **agentes autônomos**
+- Projeto **containerizado**
 
 **Stack:**
-- Python • FastAPI • Pydantic • Poetry  
-- OpenAI API • Prompt Engineering  
-- Docker  
+Python • FastAPI • Pydantic • Poetry • OpenAI API • Docker
 
-🎯 Ideal como base para:
-- Plataformas de investimento
-- Assistentes financeiros
-- Produtos de análise de mercado
+---
+
+## 🚀 Outros Projetos Relevantes
+
+### 📈 Antigravity Financial — Plataforma Financeira com IA
+
+Aplicação **web completa** construída com **FastAPI + Uvicorn**, **Docker** e **Docker Compose**, utilizando **Cloudflare D1** e **Redis** para segurança e performance.
+
+**Funcionalidades:**
+- Autenticação com **JWT**
+- **Rate limiting** com Redis
+- **Admin Panel** para aprovação de usuários
+- **Dashboard financeiro** (Ações, FX, Cripto)
+- Normalização **Base 100**
+- Integração com **Financial Modeling Prep API**
+
+**Stack:**
+FastAPI • Python • Redis • Cloudflare D1 • Docker • JWT
 
 ---
 
 ### 📄 OCR Document API — Full Stack
 
-Aplicação **Full Stack** para **upload de imagens**, **extração de texto via OCR**, **persistência em banco de dados** e **busca textual**.
+Aplicação **Full Stack** para **upload de imagens**, **extração de texto via OCR**, **persistência relacional** e **busca textual**.
 
-**Destaques técnicos:**
-- OCR aplicado (Computer Vision)
-- API REST
-- Persistência relacional
-- Arquitetura containerizada
+**Frontend:**  
+React • TypeScript • Vite • CSS • Axios • Docker  
 
-#### 🎨 Frontend
-- React • TypeScript • Vite • CSS  
-- Axios • Docker
+**Backend:**  
+Node.js • TypeScript • Express • PostgreSQL • Multer • Tesseract.js • Docker  
 
-#### 🌐 Backend
-- Node.js • TypeScript • Express  
-- PostgreSQL • SQL  
-- Multer • Tesseract.js  
-- Docker
-
-🎥 Vídeo explicativo:  
+🎥 Vídeo:  
 https://www.loom.com/share/0f83b4adf2f243e6a360af3d4622e7b0
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohugo570&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohugo570&layout=compact)
 
 ---
 
