@@ -99,13 +99,12 @@ Aplicação **Full Stack** para **upload de imagens**, **extração de texto via
 - Persistência relacional
 - Arquitetura **containerizada**
 
-#### 🎨 Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 #### 🌐 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -151,6 +150,8 @@ Aplicação **web completa** construída com **FastAPI + Uvicorn**, **Docker** e
 ---
 
 ## 📊 GitHub Stats
+
+![Diego Hugo GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegohugo570&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegohugo570&layout=compact)
 
